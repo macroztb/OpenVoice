@@ -12,7 +12,7 @@
 4. 大家最关心的checkpoints下载问题,我已放到[release](https://github.com/macroztb/OpenVoice/releases/tag/checkpoints)中.
 
 界面的样子(http://127.0.0.1:7860/):
-[](./resources/ss.png)
+![](./resources/ss.png)
 
 
 ---
