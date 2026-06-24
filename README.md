@@ -1,3 +1,19 @@
+## 我的测试结果
+
+> **先说结论**：
+> 速度很快，但是克隆的声音与原声音相差很大。
+
+
+## 我的修改
+
+1. 使用uv进行安装和运行: `uv venv --python 3.10`, `uv pip install -r requirements.txt`
+2. 我增加了 `gradio_melo_clone_app.py` 来webUI进行操作: `uv run python gradio_melo_clone_app.py`
+3. 我更新了 `requirements.txt` 来方便大家解决包依赖冲突.
+4. 大家最关心的checkpoints下载问题,我将放大release中.
+
+---
+
+
 <div align="center">
   <div>&nbsp;</div>
   <img src="resources/openvoicelogo.jpg" width="400"/> 
